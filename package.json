@@ -1,0 +1,23 @@
+{
+  "name": "Client-Side-Rendering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamorales11/Client-Side-Rendering.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamorales11/Client-Side-Rendering/issues"
+  },
+  "homepage": "https://github.com/jamorales11/Client-Side-Rendering#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  }
+}
